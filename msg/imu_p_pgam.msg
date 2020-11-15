@@ -1,0 +1,15 @@
+Header  header
+float32 wx
+float32 wy
+float32 wz
+float32 ax
+float32 ay
+float32 az
+float32 magx
+float32 magy
+float32 magz
+float32 pressure
+float32 timestampss
+float32 temperature
+float32 vinp
+uint8   status

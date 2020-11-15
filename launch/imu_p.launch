@@ -1,0 +1,7 @@
+<launch>
+
+    <node pkg="imu_p" type="imu_p" name="imu_p" output="screen" >
+    <param name="port_name" type="string" value="/dev/ttyUSB0" />
+    </node>
+          
+</launch>
